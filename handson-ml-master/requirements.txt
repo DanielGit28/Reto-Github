@@ -60,3 +60,7 @@ numexpr==2.7.2
 nltk==3.6.6
 urlextract==1.2.0
 
+
+#Edit for Github Challenge for Digital NAO
+Showing how to edit, commit and create PRs to a github repository in this case. It can be any repository
+
