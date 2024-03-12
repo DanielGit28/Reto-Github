@@ -1,2 +1,3 @@
 Test file from Branch "B" to demonstrate conflicts
 file from branch B
+conflicts resolved
