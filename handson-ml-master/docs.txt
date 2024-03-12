@@ -1,0 +1,2 @@
+Test file for conflicts with PR and branches
+Test file for branch A
