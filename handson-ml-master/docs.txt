@@ -1,2 +1,2 @@
-Test file for conflicts with PR and branches
-Test file for branch A
+Test file from Branch "B" to demonstrate conflicts
+file from branch B
